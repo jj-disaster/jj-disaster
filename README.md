@@ -1,5 +1,5 @@
 I’m jj_disaster
-Max Msp, Chuck, Unity, JS
+TD, Python, whatever
 She/They
 <!---
 jj-disaster/jj-disaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
